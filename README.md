@@ -16,7 +16,7 @@ Um aplicativo Flutter que registra trajetórias de caminhada usando o GPS do cel
 
 1.  **Clone o Repositório**:
     ```bash
-    git clone <url-do-seu-repositorio>
+    git clone https://github.com/vazleo/hiking-tracker
     cd hiking_tracker
     ```
 
